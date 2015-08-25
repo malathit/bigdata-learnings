@@ -44,5 +44,5 @@ In our case we are going to bind to the Active directory server using the userna
 ```bind_dn``` and ```bind_password``` : Needed for importing users in a group. Used only when anonymous searches are not allowed in active directory.
 
 #### Sources
-1) https://groups.google.com/a/cloudera.org/d/topic/hue-user/D2ttiFnHkJo/discussion
-2) http://gethue.com/making-hadoop-accessible-to-your-employees-with-ldap/
+- https://groups.google.com/a/cloudera.org/d/topic/hue-user/D2ttiFnHkJo/discussion
+- http://gethue.com/making-hadoop-accessible-to-your-employees-with-ldap/
